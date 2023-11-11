@@ -18,7 +18,7 @@
     "lottie-react-native": "5.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-native": "0.72.5",
+    "react-native": "0.72.6",
     "react-native-chart-kit": "^6.12.0",
     "react-native-gesture-handler": "~2.12.0",
     "react-native-reanimated": "~3.3.0",
@@ -27,7 +27,7 @@
     "react-native-web": "~0.19.6",
     "react-navigation-tabbar-collection": "^1.0.0",
     "react-native-svg": "13.9.0",
-    "expo-updates": "~0.18.16"
+    "expo-updates": "~0.18.17"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

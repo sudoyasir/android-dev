@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import { BACKGROUND_COLOR } from '../constants/colors.ts';
+import { BACKGROUND_COLOR } from '../constants/colors';
 import LottieView from 'lottie-react-native';
 import { StatusBar } from 'expo-status-bar';
 
